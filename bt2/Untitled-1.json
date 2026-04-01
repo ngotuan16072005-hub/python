@@ -1,0 +1,16 @@
+
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "C:\\msys64\\ucrt64\\include",
+        "${workspaceFolder}\\**"
+      ],
+      "compilerPath": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+      "intelliSenseMode": "windows-gcc-x64",
+      "cStandard": "c11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
